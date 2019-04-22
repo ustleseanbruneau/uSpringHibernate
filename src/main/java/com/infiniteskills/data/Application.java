@@ -18,10 +18,10 @@ public class Application {
 		
 		user.setBirthDate(new Date());
 		user.setCreatedDate(new Date());
-		user.setCreatedBy("homer");
-		user.setEmailAddress("homer.simpson@yahoo.com");
-		user.setFirstName("Homer");
-		user.setLastName("Simpson");
+		user.setCreatedBy("bob");
+		user.setEmailAddress("joe.anderson@gmail.com");
+		user.setFirstName("Joe");
+		user.setLastName("Anderson");
 		user.setLastUpdatedBy("homer");
 		user.setLastUpdatedDate(new Date());
 		
